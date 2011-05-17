@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.summary = "Adaptive pagination plugin for web frameworks and other applications"
   s.description = "The will_paginate library provides a simple, yet powerful and extensible API for pagination and rendering of page links in web application templates."
   
-  s.authors  = ['Mislav Marohnić']
+  s.authors  = ['Mislav Marohnic']
   s.email    = 'mislav.marohnic@gmail.com'
   s.homepage = 'http://github.com/mislav/will_paginate/wikis'
   
